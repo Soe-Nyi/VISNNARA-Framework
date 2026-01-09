@@ -38,3 +38,24 @@ graph TD
     F --> G[Non-breaking Resilient System]
     
     style G fill:#f9f,stroke:#333,stroke-width:4px
+```
+---
+
+## 👨‍💻 Author & Credits
+This framework is developed and maintained by:
+
+* **Name:** Soe Nyi Nyi Aung
+* **Role:** Operation Architect & Security-focused Developer
+* **Framework:** VISNNARA (Visionary Integrated Systematic Non-breaking Network Architecture Resilient Apparatus)
+* **Official Profile:** [https://cherrylandtaunggyi.com/developer.html](https://cherrylandtaunggyi.com/developer.html)
+
+### 🔗 Social Connections
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [Soe Nyi Nyi Aung](https://www.linkedin.com/in/soe-nyi-nyi-aung-86a90a264) |
+| **Facebook** | [Developer Profile](https://www.facebook.com/share/p/1bG5rzEn3S/) |
+| **Website** | [Cherryland Taunggyi](https://cherrylandtaunggyi.com) |
+
+---
+> "Systematic approach to complex operations, secured by logic, driven by innovation." 
+> — **Soe Nyi Nyi Aung**
